@@ -49,7 +49,7 @@ h1 {
 /* Media Query: For Large Smartphone */
 @media screen and (max-width: 600px) {
     h1 {
-        font-size: 23px;
+        font-size: 21px;
     }
 
     .image-container {
